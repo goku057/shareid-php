@@ -32,7 +32,7 @@
 <!--===============================================================================================-->
 </head>
 <body style="background-color: #999999;">
-	<!-- ff -->
+	
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="login100-more" style="background-image: url('frontend/signup/images/bg-01.jpg');"></div>
